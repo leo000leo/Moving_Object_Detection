@@ -1,10 +1,9 @@
-¶ÔÓ¦ÎÄ¼þËµÃ÷£º
-  1¡¢Dec_shak -- ÎÊÌâÈýÖÐÏû¶¶µÄ³ÌÐò
-  2¡¢GMMs   --  »ìºÏ¸ßË¹µÄÇ°¾°¼ì²â·¨
-  3¡¢T6  --  ÎÊÌâÁùÖÐ¸ø³öµÄSVM·ÖÀàÆ÷ÑµÁ·ºÍÊ¹ÓÃ
-  4¡¢ViBe --  ¸Ä½øViBeËã·¨
-  5¡¢WMV  --  ¼ÓÈ¨¾ù·½²îËã·¨
+å¯¹åº”æ–‡ä»¶è¯´æ˜Žï¼š
+  1ã€Dec_shak -- é—®é¢˜ä¸‰ä¸­æ¶ˆæŠ–çš„ç¨‹åº
+  2ã€GMMs   --  æ··åˆé«˜æ–¯çš„å‰æ™¯æ£€æµ‹æ³•
+  3ã€ViBe --  æ”¹è¿›ViBeç®—æ³•
+  4ã€WMV  --  åŠ æƒå‡æ–¹å·®ç®—æ³•
 
-PS:ÔËÐÐÊ±×¢ÒâÎÄ¼þÂ·¾¶ÒÔ¼°»·¾³ÅäÖÃ
+PS:è¿è¡Œæ—¶æ³¨æ„æ–‡ä»¶è·¯å¾„ä»¥åŠçŽ¯å¢ƒé…ç½®
 MATLAB 2016b
 OpenCV 3.0
